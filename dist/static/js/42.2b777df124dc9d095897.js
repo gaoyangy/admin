@@ -1,0 +1,2 @@
+webpackJsonp([42],{uoWj:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r=n("f15a"),l={name:"createForm",components:{ArticleDetail:r.default}},a=function(){var e=this,t=e.$createElement;return(e._self._c||t)("article-detail",{attrs:{"is-edit":!1}})},c=[],i={render:a,staticRenderFns:c},s=i,u=n("VU/8"),o=u(l,s,!1,null,null,null);t.default=o.exports}});
+//# sourceMappingURL=42.2b777df124dc9d095897.js.map
