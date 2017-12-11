@@ -1,0 +1,2 @@
+webpackJsonp([40],{"+abo":function(e,o,n){"use strict";Object.defineProperty(o,"__esModule",{value:!0});var l={name:"authredirect",created:function(){var e=window.location.search.slice(1);window.opener.location.href=window.location.origin+"/login#"+e,window.close()}},i=n("/Xao"),a=i(l,null,!1,null,null,null);o.default=a.exports}});
+//# sourceMappingURL=40.a55af616c621eaba2814.js.map
