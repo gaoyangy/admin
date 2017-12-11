@@ -25,6 +25,7 @@ module.exports = {
     // add your custom rules here
     //it is base on https://github.com/vuejs/eslint-config-vue
     'rules': {
+        'no-extra-semi': 2,
         'accessor-pairs': 2,
         'arrow-spacing': [2, { 'before': true, 'after': true }],
         'block-spacing': [2, 'always'],
