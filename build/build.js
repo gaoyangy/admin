@@ -24,7 +24,7 @@ rm(path.join(config.build.assetsRoot, config.build.assetsSubDirectory), err => {
                 children: false,
                 chunks: false,
                 chunkModules: false
-            }) + '\n\n')
+            }) + '\r\n')
 
         console.log(chalk.cyan('  Build complete.\n'))
         if(process.env.npm_config_preview){
@@ -33,7 +33,7 @@ rm(path.join(config.build.assetsRoot, config.build.assetsSubDirectory), err => {
                 directory: './dist',
                 file: '/index.html'
             });
-            console.log('> Listening at ' +  'http://localhost:9528' + '\n')
+            console.log('> Listening at ' +  'http://localhost:3000' + '\r\n')
         }
     })
 })
